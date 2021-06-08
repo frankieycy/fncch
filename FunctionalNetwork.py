@@ -1,5 +1,5 @@
 '''
-Functional Connectivity Estimation based on Filtered Normalized Cross-Correlation Hsitogram (FNCCH)
+Functional Connectivity Estimation based on Filtered Normalized Cross-Correlation Histogram (FNCCH)
 @ Frankie Yeung (2021 May)
 '''
 import os
